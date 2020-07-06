@@ -1,3 +1,11 @@
+##title: Robin Cooper - Data Analyst
+description: "A blog about Robin..."
+baseurl: "https://www.linkedin.com/in/robin-sequeira-9aa132177/" # for test: remove string '/space-jekyll-template' to ''
+url: "https://www.linkedin.com/in/robin-sequeira-9aa132177/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://www.linkedin.com/in/robin-sequeira-9aa132177/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RobinBatman7/Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
