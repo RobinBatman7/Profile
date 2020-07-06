@@ -1,8 +1,6 @@
 ##title: Robin Cooper - Data Analyst
 description: "A blog about Robin..."
-baseurl: "https://www.linkedin.com/in/robin-sequeira-9aa132177/"
-url: "https://www.linkedin.com/in/robin-sequeira-9aa132177/" 
-url: "https://www.linkedin.com/in/robin-sequeira-9aa132177/"
+
 
 
 
