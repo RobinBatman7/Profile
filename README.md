@@ -1,5 +1,5 @@
 ##title: Robin Cooper - Data Analyst
-description: "A blog about Robin..."
+##description: "A blog about Robin..."
 
 
 
